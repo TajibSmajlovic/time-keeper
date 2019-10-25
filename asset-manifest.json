@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/time-keeper/static/css/main.d8283262.chunk.css",
+    "main.js": "/time-keeper/static/js/main.400046f2.chunk.js",
+    "main.js.map": "/time-keeper/static/js/main.400046f2.chunk.js.map",
+    "runtime-main.js": "/time-keeper/static/js/runtime-main.60c9513e.js",
+    "runtime-main.js.map": "/time-keeper/static/js/runtime-main.60c9513e.js.map",
+    "static/css/2.3f1b02eb.chunk.css": "/time-keeper/static/css/2.3f1b02eb.chunk.css",
+    "static/js/2.4585575e.chunk.js": "/time-keeper/static/js/2.4585575e.chunk.js",
+    "static/js/2.4585575e.chunk.js.map": "/time-keeper/static/js/2.4585575e.chunk.js.map",
+    "index.html": "/time-keeper/index.html",
+    "precache-manifest.f9bc2694df011931ee31ccedd7f3b19e.js": "/time-keeper/precache-manifest.f9bc2694df011931ee31ccedd7f3b19e.js",
+    "service-worker.js": "/time-keeper/service-worker.js",
+    "static/css/2.3f1b02eb.chunk.css.map": "/time-keeper/static/css/2.3f1b02eb.chunk.css.map",
+    "static/css/main.d8283262.chunk.css.map": "/time-keeper/static/css/main.d8283262.chunk.css.map",
+    "static/media/Ajdin Zorlak.jpg": "/time-keeper/static/media/Ajdin Zorlak.0482db8f.jpg",
+    "static/media/Amila Šikalo.jpg": "/time-keeper/static/media/Amila Šikalo.569af603.jpg",
+    "static/media/Armin Odobašić.jpg": "/time-keeper/static/media/Armin Odobašić.ea012e95.jpg",
+    "static/media/Merima Kovačević.jpg": "/time-keeper/static/media/Merima Kovačević.eec97fad.jpg",
+    "static/media/Nađa Šišić.jpg": "/time-keeper/static/media/Nađa Šišić.01b548b2.jpg",
+    "static/media/Tajib Smajlović.jpg": "/time-keeper/static/media/Tajib Smajlović.89e13aef.jpg",
+    "static/media/AboutPage.module.css": "/time-keeper/static/media/backgundWithEffect.45539705.png",
+    "static/media/facebook.svg": "/time-keeper/static/media/facebook.c0cd1382.svg",
+    "static/media/github-sign.svg": "/time-keeper/static/media/github-sign.8f8edc5f.svg",
+    "static/media/linkedin.svg": "/time-keeper/static/media/linkedin.4b475fb3.svg",
+    "static/media/slick-theme.css": "/time-keeper/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60c9513e.js",
+    "static/css/2.3f1b02eb.chunk.css",
+    "static/js/2.4585575e.chunk.js",
+    "static/css/main.d8283262.chunk.css",
+    "static/js/main.400046f2.chunk.js"
+  ]
+}
