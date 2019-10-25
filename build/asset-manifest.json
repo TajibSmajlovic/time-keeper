@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79d36649.chunk.css",
+    "main.js": "/static/js/main.24bf7c75.chunk.js",
+    "main.js.map": "/static/js/main.24bf7c75.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2d6a81e2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2d6a81e2.js.map",
+    "static/css/2.18585a14.chunk.css": "/static/css/2.18585a14.chunk.css",
+    "static/js/2.4585575e.chunk.js": "/static/js/2.4585575e.chunk.js",
+    "static/js/2.4585575e.chunk.js.map": "/static/js/2.4585575e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.5c2e0f4d151f06aeaf5d868c68833fc1.js": "/precache-manifest.5c2e0f4d151f06aeaf5d868c68833fc1.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.18585a14.chunk.css.map": "/static/css/2.18585a14.chunk.css.map",
+    "static/css/main.79d36649.chunk.css.map": "/static/css/main.79d36649.chunk.css.map",
+    "static/media/Ajdin Zorlak.jpg": "/static/media/Ajdin Zorlak.0482db8f.jpg",
+    "static/media/Amila Šikalo.jpg": "/static/media/Amila Šikalo.569af603.jpg",
+    "static/media/Armin Odobašić.jpg": "/static/media/Armin Odobašić.ea012e95.jpg",
+    "static/media/Merima Kovačević.jpg": "/static/media/Merima Kovačević.eec97fad.jpg",
+    "static/media/Nađa Šišić.jpg": "/static/media/Nađa Šišić.01b548b2.jpg",
+    "static/media/Tajib Smajlović.jpg": "/static/media/Tajib Smajlović.89e13aef.jpg",
+    "static/media/AboutPage.module.css": "/static/media/backgundWithEffect.45539705.png",
+    "static/media/facebook.svg": "/static/media/facebook.c0cd1382.svg",
+    "static/media/github-sign.svg": "/static/media/github-sign.8f8edc5f.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.4b475fb3.svg",
+    "static/media/slick-theme.css": "/static/media/slick.f97e3bbf.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d6a81e2.js",
+    "static/css/2.18585a14.chunk.css",
+    "static/js/2.4585575e.chunk.js",
+    "static/css/main.79d36649.chunk.css",
+    "static/js/main.24bf7c75.chunk.js"
+  ]
+}

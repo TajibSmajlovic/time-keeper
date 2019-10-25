@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Tajib Smajlovic",
+        "role": "Front-end Developer",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "socialMedia": {
+            "ln": "",
+            "git": "",
+            "fb": ""
+        }
+    },
+    {
+        "name": "Ajdin",
+        "role": "Front-end Developer",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "socialMedia": {
+            "ln": "",
+            "git": "",
+            "fb": ""
+        }
+    },
+    {
+        "name": "Merima",
+        "role": "Back-end Developer",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "socialMedia": {
+            "ln": "asd",
+            "git": "",
+            "fb": ""
+        }
+    },
+    {
+        "name": "Armin",
+        "role": "Back-end Developer",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "socialMedia": {
+            "ln": "asd",
+            "git": "",
+            "fb": ""
+        }
+    },
+    {
+        "name": "Amila",
+        "role": "Testeras",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "socialMedia": {
+            "ln": "asd",
+            "git": "",
+            "fb": ""
+        }
+    },
+    {
+        "name": "Nadja",
+        "role": "PM",
+        "about": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "socialMedia": {
+            "ln": "asd",
+            "git": "",
+            "fb": ""
+        }
+    }
+]
